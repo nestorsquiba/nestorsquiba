@@ -25,7 +25,7 @@ But I'm interested in learning a little bit of everything for the love of the co
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+<hr>
 
 <!--
 **nestorsquiba/nestorsquiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
