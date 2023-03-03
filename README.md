@@ -2,6 +2,10 @@
 I'm Nestor Squiba, at the moment I'm a programming student and I'm perfecting myself in Front-End! I love technology, minimalism, cats, and of course coffee ☕
 
 ### 💻 Technologies & Tools
+![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+
 <!--
 **nestorsquiba/nestorsquiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
