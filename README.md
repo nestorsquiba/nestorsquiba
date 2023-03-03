@@ -1,5 +1,7 @@
 ### Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 I'm Nestor Squiba, at the moment I'm a programming student and I'm perfecting myself in Front-End! I love technology, minimalism, cats, and of course coffee ☕
+
+### 💻 Technologies & Tools
 <!--
 **nestorsquiba/nestorsquiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
