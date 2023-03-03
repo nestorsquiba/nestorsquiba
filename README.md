@@ -3,7 +3,7 @@ I'm Nestor Squiba, at the moment I'm a programming student and I'm perfecting my
 
 <img align="left" src="https://instagram.faju1-1.fna.fbcdn.net/v/t51.2885-15/328602442_3319352941662062_1074445166756712992_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.faju1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=pRjkcdZnJUcAX9NuuXt&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzAzMDg4ODA5OTA0ODA3NTUzMA%3D%3D.2-ccb7-5&oh=00_AfAIIchSkisYMuZl840dMEI7VLGnbr7lehjq6szCZfMkGA&oe=64063F17&_nc_sid=1527a3" width="250" height="250"> 
 
-> <ins>Say hello to my little furball, her name is Isis!</ins>
+> :point_left: Say hello to my little furball, her name is Isis!
 
 ### 💻 Technologies & Tools
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
